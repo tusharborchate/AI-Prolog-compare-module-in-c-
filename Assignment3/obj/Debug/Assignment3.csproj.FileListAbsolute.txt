@@ -1,0 +1,28 @@
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3Borchate\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3Borchate\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3Borchate\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3Borchate\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3Borchate\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3Borchate\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+F:\UniversityofRegina\Artificial Intelligence\Assignments\Assignment3Borchate\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+F:\UniversityofRegina\Artificial Intelligence\Assignment3Borchate\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+F:\UniversityofRegina\Artificial Intelligence\Assignment3Borchate\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+F:\UniversityofRegina\Artificial Intelligence\Assignment3Borchate\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+F:\UniversityofRegina\Artificial Intelligence\Assignment3Borchate\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+F:\UniversityofRegina\Artificial Intelligence\Assignment3Borchate\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+F:\UniversityofRegina\Artificial Intelligence\Assignment3Borchate\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+F:\UniversityofRegina\Artificial Intelligence\Assignment3Borchate\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+F:\UniversityofRegina\Winter 2018\Artificial Intelligence\Assignment3Borchate (5)\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+F:\UniversityofRegina\Winter 2018\Artificial Intelligence\Assignment3Borchate (5)\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+F:\UniversityofRegina\Winter 2018\Artificial Intelligence\Assignment3Borchate (5)\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+F:\UniversityofRegina\Winter 2018\Artificial Intelligence\Assignment3Borchate (5)\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+F:\UniversityofRegina\Winter 2018\Artificial Intelligence\Assignment3Borchate (5)\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+F:\UniversityofRegina\Winter 2018\Artificial Intelligence\Assignment3Borchate (5)\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+F:\UniversityofRegina\Winter 2018\Artificial Intelligence\Assignment3Borchate (5)\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
